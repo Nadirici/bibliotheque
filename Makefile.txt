@@ -1,0 +1,16 @@
+CC = gcc 
+
+
+all :prog
+
+prog : main.o user.o bibli.o
+    $(CC) prog main.o user.o bibli.o
+
+
+
+main.o : main.C bilbiotheque.h
+    $(CC) -o main.o -c main.c 
+user.o : utilisateur.c 
+    $(CC) -o user.o -c utilisateur.c 
+bibli.o : bibli.c
+    $(CC) -o bibli.o -c bibli.c

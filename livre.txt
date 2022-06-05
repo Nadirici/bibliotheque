@@ -1,0 +1,8 @@
+
+Le_monde_s'effondre Chiuna_Achebe Romanesque 1 1
+Contes Hans_Christian_Anderson Romanesque 2 1
+Orgeuil_et_Préjugés Jane_Austen Romanesque 3 1
+Médée Euripide Theatre 4 1
+Hamlet William_Shakespeare Theatre 5 1
+Iliade Homere Poesie 6 1
+Odyssée Homère Poesie 7 1

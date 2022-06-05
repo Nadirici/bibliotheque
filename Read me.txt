@@ -1,0 +1,5 @@
+Le preogramme ci dessous permet d'ouvrir une bibliothèque universitaire.
+Pour lancer le programme veuillez effectuer la commande make all dans le terminal.
+Il a été totalement codé avec le langage C
+et a été réalisé par NEHILI Nadir et Antonin Billaud.
+
